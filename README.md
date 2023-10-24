@@ -1,0 +1,2 @@
+# DjangoMadlibs
+Funny Madlibs Generator
