@@ -4,7 +4,7 @@ root = Tk()
 root.geometry('300x300')
 root.title('Madlibs Generator')
 Label(root, text= 'Mad libs Generator', font='arial 20 bold').pack()
-Label(root, text= 'Click Any One', font='arial 15 bold').place(x=40, y=80)
+Label(root, text= 'Click Any One', font='arial 18 bold').place(x=40, y=80)
 
 def madlib1():
     
